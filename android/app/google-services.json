@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1044130609416",
+    "project_id": "my-newahmad-16450",
+    "storage_bucket": "my-newahmad-16450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044130609416:android:94acf7f9ba3a38882314bd",
+        "android_client_info": {
+          "package_name": "com.example.firstp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyndq3jZS_lAccPr8hWYVDljitYZ_Wdsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044130609416:android:95ed5dd8b87d4c812314bd",
+        "android_client_info": {
+          "package_name": "com.example.train"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyndq3jZS_lAccPr8hWYVDljitYZ_Wdsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
